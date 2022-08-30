@@ -1,24 +1,24 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿//using System;
+//using System.Collections.Generic;
+//using System.Linq;
+//using System.Text;
+//using System.Threading.Tasks;
 
-namespace Batch1_DET_2022
-{
-    public abstract class Student
-    {
-        public int registernum { get; set; }
-        public string Name { get; set; }
-
-
-
-        public abstract double GetAvgerage();
+//namespace Batch1_DET_2022
+//{
+//    public abstract class Student
+//    {
+//        public int registernum { get; set; }
+//        public string Name { get; set; }
 
 
 
-    }
-}
+//        public abstract double GetAvgerage();
+
+
+
+//    }
+//}
 
     
 

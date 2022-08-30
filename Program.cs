@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ﻿using Batch1_DET_2022;
 
 class MyClass
@@ -20,9 +20,10 @@ class MyClass
         else
             return "FAIL";
     }*/
-  
-        public static void Main()
-        {
+
+    public static void Main()
+    { } }
+
 
 
         //Employee
@@ -92,7 +93,11 @@ class MyClass
         animal.Add(new Cat());
         foreach(Animal anim in animal)
             Console.WriteLine(anim.Sound());*/
-        try
+
+        // person
+
+
+       /* try
 
         {
 
@@ -151,11 +156,9 @@ class MyClass
         }
 
     }
-}
+} */
       
 
-=======
+
 ﻿
-//Console.WriteLine("Hello, World!");
-//Console.WriteLine("I am 22815");
->>>>>>> parent of e2d951c (Modified)
+
